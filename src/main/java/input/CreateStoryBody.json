@@ -1,0 +1,11 @@
+ {
+   "fields": {
+       "project": {
+           "key": "AM"
+       },
+       "summary": "Create a story by reading data from json file",
+       "issuetype": {
+           "name": "Story"
+       }
+ }
+ }
